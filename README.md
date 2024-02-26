@@ -1,4 +1,4 @@
-#Learning-and-Projects 📚💻
+# My Learning-and-Projects 📚💻
 Welcome to my eclectic repository of learning and projects, a testament to my journey through the captivating realms of data science and AI!
 
 ### 1. Practical Machine Learning with Python - Book 🚀🔬
