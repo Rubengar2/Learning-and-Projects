@@ -2,7 +2,7 @@
 
 Welcome to this part of my portfolio! This repository serves as a showcase of my projects and analyses in the fields of data science, computer vision, and artificial intelligence.
 
-##About me.
+## About me.
 Hello! I'm José Rubén García, a passionate and dynamic engineer with solid experience in the exciting field of data science. With over 2 years of practical experience, I specialize in unraveling valuable insights from complex datasets using cutting-edge tools such as machine learning and statistical analysis. My ability to translate business objectives into robust technical solutions is grounded in an expert command of a wide range of programming languages and data science libraries. Additionally, I'm an effective communicator, capable of conveying complex ideas clearly and concisely, ensuring seamless alignment between business needs and proposed solutions. I'm always on the lookout for new opportunities to grow and learn in the fascinating world of data science. I'm excited to collaborate on innovative projects that drive business success.
 
 ## Projects
