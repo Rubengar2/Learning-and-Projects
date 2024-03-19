@@ -15,7 +15,8 @@ Hello! I'm José Rubén García, a passionate and dynamic engineer with solid ex
 
 ### Artificial Intelligence
 - **Pending
-  
+
+## Skills  
 - **Programming Languages:** Python, R, SQL, C++, MATLAB, Java, JavaScript, PHP, HTML, CSS
 - **Machine Learning Libraries:** Scikit-learn, TensorFlow, Keras, PyTorch, XGBoost
 - **Data Visualization:** Matplotlib, Seaborn, Plotly, Tableau, Power BI, Google Data Studio
